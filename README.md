@@ -12,7 +12,7 @@
 
 <!-- Quick Social Badges -->
 <p align="center">
-  <a href="https://github.com/Himanshu1820"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" /></a> 
+  <a href="https://github.com/himanshu-soni57"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" /></a> 
   <a href="https://www.linkedin.com/in/himanshu-soni57"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/himanshu__soni57"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://himanshu-soni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
@@ -144,16 +144,16 @@
 ## 📊 THE NUMBERS
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Himanshu1820&theme=radical&no-bg=true&margin-w=15&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=himanshu-soni57&theme=radical&no-bg=true&margin-w=15&column=4" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu1820&theme=radical&hide_border=true&stroke=00ffcc&ring=ff00ff&fire=ff6600" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu1820&show_icons=true&theme=radical&hide_border=true&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-soni57&theme=radical&hide_border=true&stroke=00ffcc&ring=ff00ff&fire=ff6600" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-soni57&show_icons=true&theme=radical&hide_border=true&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff" width="48%"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu1820&theme=react-dark&hide_border=true&area=true&color=00ffcc&line=ff00ff&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-soni57&theme=react-dark&hide_border=true&area=true&color=00ffcc&line=ff00ff&point=ffffff" width="97%"/>
 
 </div>
 
