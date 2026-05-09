@@ -15,7 +15,7 @@
   <a href="https://github.com/himanshu-soni57"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" /></a> 
   <a href="https://www.linkedin.com/in/himanshu-soni57"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/himanshu__soni57"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://himanshu-soni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <a href="https://himanshusoni.dev"><img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 </p>
 
 </div>
@@ -167,7 +167,7 @@
 <a href="mailto:himanshu100ni.sikar@gmail.com">
   <img src="https://img.shields.io/badge/Hire_Me-00ffcc?style=for-the-badge&logo=mail.dot.ru&logoColor=black" />
 </a>
-<a href="https://himanshu-soni.netlify.app/">
+<a href="https://himanshusoni.dev">
   <img src="https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
